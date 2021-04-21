@@ -1,0 +1,7 @@
+inject
+flask
+sqlalchemy
+psycopg2-binary
+werkzeug
+gevent
+flask-sockets
